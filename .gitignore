@@ -1,0 +1,6 @@
+.vscode
+env
+__pycache__
+user
+pyinstaller
+Modulo Vencimiento.rar
